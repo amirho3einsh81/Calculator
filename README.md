@@ -1,4 +1,4 @@
-<img src="https://github.com/M66B/FairEmail/raw/master/images/banner7_long.png" />
+<img src="https://github.com/amirho3einsh81/Calculator/blob/master/screenshots/_storage_emulated_0_Android_data_ir.rubx.bapp_cache_-2147483648_-210069.jpg" />
 
 <p align="center">
 	<a href="#downloads">Downloads</a> &bull;
