@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="title">please enter number for compute</string>
+</resources>
