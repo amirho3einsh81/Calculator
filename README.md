@@ -1,4 +1,4 @@
-<img src="https://github.com/M66B/FairEmail/raw/master/images/banner7_long.png" />
+<img src="https://github.com/amirho3einsh81" />
 
 <p align="center">
 	<a href="#downloads">Downloads</a> &bull;
@@ -7,4 +7,4 @@
 	<a href="#license">License</a>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/M66B/FairEmail/master/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+<img align="right">
